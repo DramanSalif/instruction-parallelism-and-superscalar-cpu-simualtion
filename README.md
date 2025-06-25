@@ -34,8 +34,6 @@ def do_something(a, b):
 
 * `superscalar_gantt.png` – Execution timeline diagram
 * `rob_simulation.py` – Python script modeling the ROB
-* `superscalar_report.md` – Markdown writeup for technical blogs or Medium
-* `instruction_parallelism.qmd` – Quarto blog post with embedded simulation
 * `rob_latex_table.tex` – LaTeX-formatted ROB table for academic reports
 
 ## 🚀 Highlights
@@ -58,4 +56,3 @@ Use this analysis for:
 
 ---
 
-Let me know if you'd like a separate `README.md` file generated or added to your `.zip` archive.
